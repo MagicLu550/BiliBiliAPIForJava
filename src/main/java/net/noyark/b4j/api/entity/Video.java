@@ -34,6 +34,5 @@ public class Video {
     private String cid;
 
     private String offsite;
-
-    private String
+    
 }
